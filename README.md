@@ -1,2 +1,5 @@
-# Face-Recognition-WebApp
-A face detection web app with opencv
+# Face-Recognition
+
+A face detection app with OpenCV
+
+
